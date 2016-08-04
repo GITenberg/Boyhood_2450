@@ -1,0 +1,48 @@
+_repo: Boyhood_2450
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hogarth, C. J.
+    gutenberg_agent_id: '835'
+    url: http://www.gutenberg.org/2009/agents/835
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Толстой, Лев Николаевич
+    - Tolstoi, Leo
+    - Tolstoï, Léon
+    - Tolstoy, Lev N.
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: "Boyhood (Russian: Отрочество, Otrochestvo) is the second novel in Leo\
+  \ Tolstoy's autobiographical trilogy, following Childhood and followed by Youth.\
+  \ The novel was first published in the Russian literary journal Sovremennik in 1854.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2450'
+  wikidata: Q965704
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russia -- Fiction'
+- GITenberg
+title: Boyhood
+url: http://www.gutenberg.org/ebooks/2450
+wikipedia:
+- https://nl.wikipedia.org/wiki/Jongensjaren
+- https://ru.wikisource.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9)
+- https://es.wikipedia.org/wiki/Adolescencia_(novela)
+- https://en.wikipedia.org/wiki/Boyhood_(novel)
+- https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D0%BF%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D1%8C)
+- https://ca.wikipedia.org/wiki/L%27adolesc%C3%A8ncia
+- https://ro.wikipedia.org/wiki/Adolescen%C8%9Ba_(roman)
+- https://fr.wikisource.org/wiki/Adolescence
